@@ -57,7 +57,7 @@ module.exports = {
     name: "help",
     aliases: ["menu"],
     version: "2.0",
-    author: "Saimx69x | fixed by Aphelion",
+    author: "Saimx69x | ncs pro",
     role: 0,
     category: "info",
     shortDescription: "Show all commands",
@@ -114,7 +114,7 @@ module.exports = {
       msg += `\n━━━━━━━━━━━━━━\n`;
       msg += `🔢 Total Commands: ${total}\n`;
       msg += `⚡ Prefix: ${prefix}\n`;
-      msg += `👑 Owner: Aphelion`;
+      msg += `👑 Owner: KIPE BABY `;
 
       return message.reply(msg);
     }
